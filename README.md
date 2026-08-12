@@ -1,9 +1,10 @@
-Kelompok 4 Design dan Pemrograman Web TI-C
+ == Kelompok 4 Design dan Pemrograman Web TI-C ==
 
-Ketua :
+
 Fazl El Hakeem Wilmar (25071105226)
 
-Anggota :
 Hadi Fauzan (25071207083)
+
 Claudya Chantika Tampubolon (25071103630)
+
 Nadya Sulfa Ul-Zannah (25071101291)
