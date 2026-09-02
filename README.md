@@ -7,6 +7,9 @@
 
 Time to Laprak
 
+okk
 ok
 
 halorekk
+okk
+yey cihuy
