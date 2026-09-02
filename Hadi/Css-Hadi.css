@@ -1,0 +1,19 @@
+.launching{
+    text-align: center;
+    font-size: 20px;
+}
+
+h1{
+   font-family: 'Times New Roman', Times, serif; 
+   font-size: 90px;
+}
+
+h2{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+h2, .konten{
+    background-color:aqua
+
+}
