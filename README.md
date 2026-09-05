@@ -6,3 +6,12 @@
 4. Nadya Sulfa Ul-Zannah (25071101291)
 
 Time to Laprak
+
+okk
+ok
+
+halorekk
+okk
+yey cihuy
+
+Info Gacoan
