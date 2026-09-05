@@ -6,7 +6,7 @@
 }
 
 .tempel {
-    background-image: url(../../bg2.png);
+    background-image: url(../../Nadya/bg2.png);
     border: 1px solid black;
     top: 0px;
     left: 0px;
@@ -78,7 +78,7 @@ main {
     margin: 0 auto 15px auto;
     padding: 15px;
     border: 2px solid #555;
-    background-image: url(../../bg2.png);
+    background-image: url(../../Nadya/bg2.png);
 
     overflow: auto;
 }
